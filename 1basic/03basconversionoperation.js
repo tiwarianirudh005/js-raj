@@ -22,9 +22,34 @@
 //console.log(booleanIsLoggedIn); // Output: true
 
 
-let somenumber = 33
+//let somenumber = 33
 
-let stringnumber = String(somenumber)
-console.log(stringnumber);
-console.log(typeof stringnumber);
+//let stringnumber = String(somenumber)
+//console.log(stringnumber);
+//console.log(typeof stringnumber);
+
+// ***********************operations*******************//
+
+//let value = 3
+//let negvalue = -value
+//console.log(negvalue);
+
+//console.log(1 + "2");
+//console.log("1" + 2 + 2);
+//let str1 ="hello"
+//let str2 = " Anirudh"
+
+//let str3 = str1 + str2
+//console.log(str3);
+
+//console.log("1"+ 2);
+//console.log(1 + 2 + "2");
+
+let gamecounter = 200
+++gamecounter;
+console.log(gamecounter);
+
+//link to study
+//mbs go to mdm and learn about prefix and postfix in javascript
+
 
